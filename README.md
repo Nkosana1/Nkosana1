@@ -36,8 +36,9 @@ From beautiful sunny Zimbabwe full-stack developer and content car creator build
 
 ### 📊 Stats
 
-![Nkosana1's GitHub stats](https://github.com/Nkosana1)
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkosana1&show_icons=true&locale=en" alt="nkosana1" /></p>
 
 
 #
